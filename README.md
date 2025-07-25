@@ -1,4 +1,4 @@
-                                                                            Poultry Breeder Management System
+Poultry Breeder Management System
 
 A full-stack web application designed to simplify poultry breeder operations by managing flocks, daily data entries, and production reports. It helps track bird counts, egg production, and feed usage while automatically calculating age and stage (Chick, Grower, Layer).
 
