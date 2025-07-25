@@ -61,16 +61,19 @@ npm start
 
 
 Usage:
+
 Open React frontend at http://localhost:3000
 Ensure Django backend runs at http://127.0.0.1:8000
 Create flocks, enter daily data, and monitor dashboards/reports
 
 Future Enhancements:
+
 Authentication and role-based access (Admin/Staff)
 Advanced analytics for feed vs egg production
 Export reports as Excel or PDF
 
 Author:
+
 Smita Abhale
 Email: abhalesmita3@gmail.com
 
