@@ -42,7 +42,7 @@ Reports
 Installation
 
 1. Clone Repository
-git clone <>
+git clone <https://github.com/smitabhale/poultry_management_v2/tree/main>
 cd poultry-breeder-management
 
 2. Backend Setup
